@@ -1,1 +1,1 @@
-# myYouTube_manage_linux_from_AD_part1
+# Scriptes realted to my YouTube video: Managing Linux Log-in, Users, and Machines in Active Directory (AD): Part 1- Setup AD (https://youtu.be/lqny1wcIFc4)
